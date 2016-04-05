@@ -13,8 +13,6 @@ while (secondFibonacciNumber<4000000) {
     secondFibonacciNumber=sum; 
 }
 
-//console.log(fibonacciArrayEven);
-
 function add(a, b) {
     return a + b;
 }
